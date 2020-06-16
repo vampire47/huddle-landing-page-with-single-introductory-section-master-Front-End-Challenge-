@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.image {
+    margin-left: 68px;
+    margin-top: 40px;
+}
+
+button {
+    width: 37%;
+    height: 14%;
+    background: white;
+    border-radius: 45px;
+    margin-top: 27px;
+}
+
+.attribution {
+    font-size: 25px;
+    color: white;
+}
+
+.attribution a {
+    text-decoration: none;
+    color: black;
+}
+
+.right {
+    margin-top: 53px;
+    margin-left: 46px;
+    color: white;
+}
+
+.right h1 {
+    font-size: 44px;
+    font-weight: 400;
+}
+
+.right p {
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+
+.container {
+    display: flex;
+    margin-top: 60px;
+    margin-left: 68px;
+}
+
+body {
+    background: url('./images/bg-desktop.svg');
+    background-color: hsl(257, 40%, 49%);
+}
